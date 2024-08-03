@@ -1,0 +1,20 @@
+.video {
+  object-fit: contain;
+  position: relative;
+  background: #000;
+}
+
+.video video {
+  height: 100%;
+}
+
+
+.video:hover {
+  cursor: pointer;
+}
+
+.btn {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
